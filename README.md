@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @lizzy-0323
+- 👋 Hi, I’m lazy
 - 👀 I’m interested in python
 - 🌱 I’m currently learning Computer Architecture at whu.
-- 📫 How to reach me ...
 
 <!---
 lizzy-0323/lizzy-0323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
