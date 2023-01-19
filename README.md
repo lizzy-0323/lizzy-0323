@@ -1,5 +1,5 @@
 - 👋 Hi, I’m lazy
-- 👀 I’m interested in python
+- 👀 I’m interested in computer science,i'm vegetable.. that's all...
 - 🌱 I’m currently learning Computer Architecture at whu.
 
 <!---
