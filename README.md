@@ -1,3 +1,3 @@
 - 👋 Hi, There！
-- I'm ZiYi Li, A postgraduate student in WuHan University.
+- I'm Ziyi Li, A postgraduate student in WuHan University.
 - Most Used Languages: Golang, Python.
