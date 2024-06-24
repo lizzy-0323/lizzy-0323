@@ -9,18 +9,19 @@
     <div style="width:50%;margin-left: 20px;">
         <h3>Brief Biography</h3>
         <ul>
-            <li>A postgraduate student in Wuhan University 💖</li>
+            <li>Studying for a master degree in Wuhan University 💖</li>
             <li>Wish to be a good software engineer ☀️</li>
         </ul>
         <h3>Interests:</h3>
         <ul>
             <li>Body building</li>
             <li>Coding</li>
-            <li>Rock'N roll music</li>
+            <li>Rock'N Roll music</li>
         </ul>
         <h3>Currently Focusing On:</h3>
         <ul>
             <li>Golang.</li>
+            <li>Python.</li>
             <li>Federated learning.</li>
         </ul>
         <h3>Recent Wishes:</h3>
