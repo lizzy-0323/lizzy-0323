@@ -1,6 +1,6 @@
 <!-- Greeting -->
 <div style="display: flex; align-items: center; align-content: flex-start; justify-content: center; flex-direction: column;">
-    <h1 align="center">Welcome!</h1>
+    <h1 align="center">Hi! There!🙋</h1>
     <img align="right" alt="Github Visit" src="https://komarev.com/ghpvc/?username=lizzy-0323&color=blue&style=flat&label=PROFILE+VISITORS"/>
 </div>
 
