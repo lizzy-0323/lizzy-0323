@@ -9,7 +9,7 @@
     <div style="width:50%;margin-left: 20px;">
         <h3>Brief Biography</h3>
         <ul>
-            <li>Studying for a master degree in Wuhan University 🎓</li>
+<!--             <li>Studying for a master degree in Wuhan University 🎓</li> -->
             <li>Wish to be a good software engineer ☀️</li>
         </ul>
         <h3>Interests:</h3>
