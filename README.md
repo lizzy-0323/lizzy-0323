@@ -30,11 +30,11 @@
         </ul>
     </div>
 <!-- Wishes -->
-<div style="font-size: 1.25rem;font-family: 'Helvetica Neue', Helvetica, 'Microsoft YaHei', '微软雅黑', Arial, sans-serif;">
+<!-- <div style="font-size: 1.25rem;font-family: 'Helvetica Neue', Helvetica, 'Microsoft YaHei', '微软雅黑', Arial, sans-serif;">
     <p>
         <span>💬 Enjoy yourself at my github</span>
         <a style="text-decoration: none;" href="https://github.com/lizzy-0323" target="_blank">[Ziyi Li]</a>
         <span>and my personal blog:</span>
         <a style="text-decoration: none;" href="https://lizzy-0323.github.io" target="_blank">[Ziyi Li]</a>
     </p>
-</div>
+</div> -->
