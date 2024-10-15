@@ -11,15 +11,14 @@
         <ul>
             <li>Studying for a master degree in Wuhan University 🎓</li>
             <li>Wish to be a good software engineer ☀️</li>
-            <li>Obsession is all you need</li>
         </ul>
         <h3>Interests:</h3>
         <ul>
-            <li>Body building</li>
-            <li>Coding</li>
-            <li>Rock'N Roll music</li>
+            <li>Body building 🏋</li>
+            <li>Coding 💻</li>
+            <li>Rock'N Roll music 🎸</li>
         </ul>
-<h3>Currently Focusing On:</h3> 
+<h3>Most Commonly Used Language:</h3> 
         <ul>
             <li>Golang.</li>
             <li>Python.</li>
