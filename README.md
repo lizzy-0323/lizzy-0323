@@ -34,6 +34,6 @@
         <a style="text-decoration: none;" href="https://lizzy-0323.github.io" target="_blank">[Ziyi Li]</a>
     </p>
 </div> -->
-📈 my github stats
+My github stats 📈 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lizzy-0323&show_icons=true&theme=gotham" alt="lizzy-0323" />
