@@ -18,23 +18,6 @@
             <li>Coding 💻</li>
             <li>Rock'N Roll music 🎸</li>
         </ul>
-<h3>Most Commonly Used Language:</h3> 
-        <ul>
-            <li>Golang.</li>
-            <li>Python.</li>
-        </ul>
-        </ul>
-    </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizzy-0323&layout=compact&theme=tokyonight)
-<!-- Wishes -->
-<!-- <div style="font-size: 1.25rem;font-family: 'Helvetica Neue', Helvetica, 'Microsoft YaHei', '微软雅黑', Arial, sans-serif;">
-    <p>
-        <span>💬 Enjoy yourself at my github</span>
-        <a style="text-decoration: none;" href="https://github.com/lizzy-0323" target="_blank">[Ziyi Li]</a>
-        <span>and my personal blog:</span>
-        <a style="text-decoration: none;" href="https://lizzy-0323.github.io" target="_blank">[Ziyi Li]</a>
-    </p>
-</div> -->
 My github stats 📈 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lizzy-0323&show_icons=true&theme=gotham" alt="lizzy-0323" />
