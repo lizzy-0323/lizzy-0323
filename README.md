@@ -25,6 +25,7 @@
         </ul>
         </ul>
     </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lizzy-0323&layout=compact&theme=tokyonight)
 <!-- Wishes -->
 <!-- <div style="font-size: 1.25rem;font-family: 'Helvetica Neue', Helvetica, 'Microsoft YaHei', '微软雅黑', Arial, sans-serif;">
     <p>
