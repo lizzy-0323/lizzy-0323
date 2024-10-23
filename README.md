@@ -22,4 +22,4 @@ My github stats 📈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lizzy-0323&show_icons=true&theme=gotham" alt="lizzy-0323" />
 
-How to reach me? Please email me at liziyi0323xxx@gmail.com
+🤝How to reach me?  Please email me at liziyi0323xxx@gmail.com !
