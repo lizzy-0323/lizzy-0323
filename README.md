@@ -10,7 +10,7 @@
  <h3>Brief Biography</h3>
         <ul>
             <li>Studying for a master degree in Wuhan University 🎓</li>
-            <li>Wish to be a good software engineer ☀️</li>
+            <li>Wish to be a software engineer ☀️</li>
         </ul>
         <h3>Interests:</h3>
         <ul>
