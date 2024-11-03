@@ -1,4 +1,4 @@
-<!-- Greeting -->
+<!- Greeting -->
 <div style="display: flex; align-items: center; align-content: flex-start; justify-content: center; flex-direction: column;">
 <h1 align="center">Hi! There!🙋</h1> 
 <img align="right" alt="Github Visit" src="https://komarev.com/ghpvc/?username=lizzy-0323&color=blue&style=flat&label=PROFILE+VISITORS"/>
@@ -18,7 +18,7 @@
             <li>Coding 💻</li>
             <li>Rock'N Roll music 🎸</li>
         </ul>
-My github stats 📈 
+My github stats 📈:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lizzy-0323&show_icons=true&theme=gotham" alt="lizzy-0323" />
 
