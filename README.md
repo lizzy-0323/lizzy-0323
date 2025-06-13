@@ -9,7 +9,8 @@
  <h3>Brief Biography</h3>
         <ul>
             <li>Studying for a master degree in Wuhan University 🎓</li>
-            <li>A lifelong learner ☀️</li>
+            <li>A lifelong learner, an open source enthusiast ☀️</li>
+            <li>Currently learning cloud native, vector search and AI related areas 📚</li>
         </ul>
         <h3>Interests:</h3>
         <ul>
