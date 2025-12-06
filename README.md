@@ -18,9 +18,9 @@
             <li>Coding 💻</li>
             <li>Rock'N Roll music 🎸</li>
         </ul>
-        <h3>My github stats 📈:</h3>
+        <!-- <h3>My github stats 📈:</h3> -->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lizzy-0323&show_icons=true&theme=gotham" alt="lizzy-0323" />
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lizzy-0323&show_icons=true&theme=gotham" alt="lizzy-0323" /> -->
 
 🤝 Q: How to reach me?  
 ✉️ A: Please email me at **liziyi0323xxx@gmail.com** !
